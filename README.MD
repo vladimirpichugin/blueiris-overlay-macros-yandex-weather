@@ -10,3 +10,6 @@ Instructions:
 3. [Obtain a personal API key](https://yandex.ru/dev/weather/doc/dg/concepts/about.html) for the Yandex Weather API to work.
 4. Update the config.json by setting the API key and specifying a file-location to write a txt file with the weather forecast.
 5. Use Windows Task Scheduler to customize the startup time.
+
+Build command:<br>
+`pyinstaller --noconfirm --onefile --windowed --name "Blue Iris Weather"  "main.py"`
