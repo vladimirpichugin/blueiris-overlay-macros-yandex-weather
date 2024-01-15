@@ -2,7 +2,7 @@
 #### This project is created to contribute to the community. 
 
 <br>Blue Iris: https://blueirissoftware.com/<br>
-<i>Required Blue Iris Tools.</i>
+<i>Blue Iris Tools not required.</i>
 
 Instructions:
 1. Download the latest version for Windows from [releases](https://github.com/vladimirpichugin/blueiris-overlay-macros-yandex-weather/releases/tag/latest). 
